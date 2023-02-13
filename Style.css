@@ -30,3 +30,19 @@ img[alt="fishy"] {
      top: 5rem;
      left: 19vw
  }
+
+#releases {
+    text-align: center;
+}
+
+#about-title {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+#email {
+    text-align: center;
+}
