@@ -12,23 +12,28 @@ img[alt="fishy"] {
 
  }
 #img-div {
-    position: relative;
+    /*position: relative;*/
+    background: url(./IMG_5213.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+
 }
  #img-text {
      font-size: xxx-large;
      color: white;
-     position: absolute;
-     top: 3rem;
-     left: 19vw
-
+     position: sticky;
+     top: 4rem;
+     left: 17vw;
+    display: inline-block;
  }
 
  #img-text-2 {
      font-size: xxx-large;
      color: red;
-     position: absolute;
-     top: 5rem;
-     left: 19vw
+     position: sticky;
+     top: 7rem;
+     left: 17vw;
+     display: inline-block;
  }
 
 #releases {
