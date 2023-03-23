@@ -46,8 +46,32 @@ img[alt="fishy"] {
 
 #contact {
     text-align: center;
+    color: white;
 }
 
 #email {
+    text-align: center;
+    color: white;
+}
+
+img[alt="pants-1"] {
+    width: 20rem;
+}
+img[alt="shirt-1"] {
+    width: 20rem;
+}
+img[alt="shirt-2"] {
+    width: 20rem;
+}
+img[alt="shirt-3"] {
+    width: 20rem;
+}
+img[alt="shirt-4"] {
+    width: 20rem;
+}
+img[alt="shirt-5"] {
+    width: 20rem;
+}
+#text {
     text-align: center;
 }
